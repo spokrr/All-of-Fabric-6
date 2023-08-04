@@ -29,7 +29,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Bunch of random, and mostly unoriginal things but aswell useful utilities!"
+			subtitle: "A bunch of random (mostly unoriginal) things and useful utilities!"
 			tasks: [{
 				icon: "kibe:kibe"
 				id: "3931534EE6E5F653"
@@ -331,7 +331,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Only the best for you"
+			subtitle: "Only the best for you!"
 			tasks: [{
 				id: "166D7DD64BEA9D21"
 				item: "kibe:diamond_kibe"
@@ -495,7 +495,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "Universally linked chests that work across dimensions and stores the same items as long as they are color-coded the same."
+			subtitle: "Universally linked chests that work across dimensions and store the same items as long as they are color-coded the same."
 			tasks: [{
 				id: "0ED500FB5F9B7C7F"
 				item: "kibe:entangled_chest"
@@ -673,7 +673,7 @@
 		{
 			id: "1C9883ACFF33E397"
 			shape: "hexagon"
-			subtitle: "Using kibe runes, you can code your linked chests and have as many different ones that your heart desires."
+			subtitle: "Using Kibe runes, you can code your linked chests and have as many different ones that your heart desires."
 			tasks: [{
 				id: "7C9B04C717763B2B"
 				title: "Entangle your mind."
@@ -1044,13 +1044,13 @@
 				""
 				"Use redstone to active the drain or shower, to store xp or to dispense."
 				""
-				"Cursed droplets and seeds are used to make cursed dirt. Which spawns more mobs."
+				"Cursed droplets and seeds are used to make cursed dirt, which spawns more mobs."
 				""
 				"Use the trash can to get rid of any unwanted loot."
 				""
 				"Use the lassos to capture mobs.. for various reasons."
 				""
-				"Once you have mastered the mob farm, can you claim your reward."
+				"Only once you have mastered the mob farm can you claim your reward."
 			]
 			id: "2EA53113508BD436"
 			shape: "hexagon"
@@ -1234,7 +1234,7 @@
 			shape: "hexagon"
 			tasks: [{
 				id: "24A1862F0308DA6E"
-				title: "Wither machine"
+				title: "Wither Machine"
 				type: "checkmark"
 			}]
 			title: "Wither Machine"
@@ -1368,7 +1368,7 @@
 			}]
 			tasks: [{
 				id: "4B6651B07849440F"
-				title: "Handy dandy utilities"
+				title: "Handy Dandy Utilities"
 				type: "checkmark"
 			}]
 			title: "Handy Dandy Utilities"
@@ -1544,7 +1544,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Exactly like vanilla Hoppers but that moves fluids instead of items."
+			subtitle: "Exactly like vanilla Hoppers, but move fluids instead of items."
 			tasks: [{
 				id: "17E02EA331F7D7A6"
 				item: "kibe:fluid_hopper"
@@ -1581,10 +1581,10 @@
 		{
 			description: ["TIP: They are activated by redstone."]
 			id: "08F0301F0C8D7013"
-			subtitle: "Use these various machines to do all kinds of things."
+			subtitle: "These machines let you Automate All The Things™."
 			tasks: [{
 				id: "093B8ECB1B60CFD3"
-				title: "Machines to automate"
+				title: "Machines To Automate"
 				type: "checkmark"
 			}]
 			x: -0.5d
