@@ -26,7 +26,7 @@ ServerEvents.recipes(event => {
 
   event.custom({
     "type": "modern_industrialization:macerator",
-    "id": "aof:mi_macerator_crushed_raw_zinc",
+    "id": "aof:mi_macerator_crushed_zinc_ore",
     "eu": 2,
     "duration": 200,
     "item_inputs": [
@@ -37,7 +37,7 @@ ServerEvents.recipes(event => {
     ],
     "item_outputs": [
       {
-        "item": "create:crushed_raw_zinc",
+        "item": "create:crushed_zinc_ore",
         "amount": 2
       }
     ]
@@ -69,25 +69,5 @@ ServerEvents.recipes(event => {
     ]
   })
 });
-
-// Prosperity Shards
-event.custom({
-  "type": "modern_industrialization:macerator",
-  "id": "aof:mi_macerator_prosperity_shards",
-  "eu": 2,
-  "duration": 200,
-  "item_inputs": [
-    {
-      "tag": "c:prosperity_ores",
-      "amount": 1
-    }
-  ],
-  "item_outputs": [
-    {
-      "item": "mysticalagriculture:prosperity_shard",
-      "amount": 2
-    }
-  ]
-})
 
 })

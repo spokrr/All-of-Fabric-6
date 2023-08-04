@@ -55,23 +55,6 @@ ServerEvents.recipes(event => {
 
      });
 
-      // Prosperity Shards
- event.recipes.indrev.pulverize({
-        
-    type: "indrev:pulverize",
-    ingredients: {
-        
-        tag: 'c:prosperity_ores',
-        count: 1
-    },
-    output: {
-        item: 'mysticalagriculture:prosperity_shard',
-        count: 2
-    },
-    processTime: 300
-
-     });
-
      /*
      // Zinc
      event.recipes.indrev.pulverize({
