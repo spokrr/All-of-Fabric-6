@@ -22,9 +22,5 @@
   "items": {
     // default: false
     "enableDevelopmentTab": false
-  },
-  // Whether the entry door to boss rooms should remain unlocked
-  "unlockedBossEntry": false,
-  // Whether the Mine Cells data should automatically get wiped after major updates
-  "autoWipeData": true
+  }
 }

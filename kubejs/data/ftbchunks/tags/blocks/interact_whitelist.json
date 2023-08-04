@@ -86,14 +86,7 @@
 		{
 			"id": "lootr:lootr_barrel",
 			"required": false
-		},
-		{
-			"id": "universal_shops:trade_block",
-			"required": false
-		},
-		{
-			"id": "universal_shops:admin_trade_block",
-			"required": false
 		}
+	
 	]
 }

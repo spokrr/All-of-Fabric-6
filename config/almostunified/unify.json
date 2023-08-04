@@ -21,8 +21,7 @@
     "tinycoal",
     "catwalksinc",
     "mysticalagriculture",
-    "createdeco",
-    "bakery"
+    "createdeco"
 
   ],
   "stoneStrata": [
@@ -59,10 +58,7 @@
     "c:netherrack_dusts",
     "c:chromium_small_dusts",
     "c:titanium_small_dusts",
-    "c:platinum_small_dusts",
-    "c:emerald_small_dusts",
-    "c:steel_small_dusts",
-    "c:strawberries"
+    "c:platinum_small_dusts"
   ],
   "materials": [
     "aluminum",
@@ -105,13 +101,11 @@
     "garlic",
     "quartz",
     "ender_pearl",
-    "obsidian",
-    "saw"
+    "obsidian"
   ],
   "priorityOverrides": {
     "c:chromium_small_dusts": "modern_industrialization",
     "c:platinum_small_dusts": "modern_industrialization",
-    "c:emerald_small_dusts": "modern_industrialization",
     "c:salt_dusts": "bewitchment",
     "c:dough": "farmersdelight",
     "c:obsidian_plates": "techreborn",

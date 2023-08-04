@@ -157,29 +157,8 @@ ServerEvents.recipes(event => {
             "processingTime": 150
         })
 
-        // Prosperity Shaders
-        event.custom({
-            "type": "create:crushing",
-            "group": "minecraft:misc",
-            "ingredients": [
-                {
-                    "tag": "c:prosperity_ores",
-                }
-            ],
-            "results": [
-                {
-                    "item": "mysticalagriculture:prosperity_shard",
-                    "count": 2
-                }
-            ],
-            "processingTime": 150
-        })
-
         const dust_from_ingot = [
             'bronze',
-            'iron',
-            'gold',
-            'copper',
             'tin',
             'lead',
             'silver',

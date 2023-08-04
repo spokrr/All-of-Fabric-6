@@ -2,14 +2,10 @@
   "miscellaneousModule": {
     "tanksChangeLights": true,
     "cursedDirtMobCap": 25,
-    "cursedDirtDenyList": [],
+    "cursedDirtBlacklist": [],
     "xpDrainSpeedMultiplier": 1.0,
     "xpShowerSpeedMultiplier": 1.0,
-    "magnetRange": 8.0,
-    "gliderUnbreakable": true,
-    "gliderDurability": 36000,
-    "lassoDenyList": ["adventurez:void_shadow"],
-    "maxRingsPerPlayer": 1
+    "magnetRange": 8.0
   },
   "chunkLoaderModule": {
     "checkForPlayer": false,
