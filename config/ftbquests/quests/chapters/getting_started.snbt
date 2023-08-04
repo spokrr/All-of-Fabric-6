@@ -48,7 +48,7 @@
 		{
 			dependencies: ["175F5611FB7716A4"]
 			description: [
-				"&bExcavate &ris by default bound to keybind \"&6Grave&r\""
+				"&bExcavate &ris by default bound to the &6grave&r key. (Below the ESC key on most standard keyboards!)"
 				""
 				"You can change this keybind &rby going into &6options &rand change the &bFTB Ultimine &rkeybinds."
 			]
@@ -86,7 +86,7 @@
 			]
 			icon: "techreborn:wrench"
 			id: "257EAB9268907E1D"
-			subtitle: "Feel lost? Do not worry!"
+			subtitle: "Feel lost? Don't worry!"
 			tasks: [{
 				id: "60A1EB763CF25699"
 				title: "Learning Mods"
@@ -99,7 +99,7 @@
 		{
 			dependencies: ["175F5611FB7716A4"]
 			description: [
-				"Dont feel like &6running &rthousands of blocks for that favorite biome of yours?"
+				"Don't feel like &searching &rthousands of blocks for that favorite biome of yours?"
 				""
 				"The &bNature's Compass &rsaves your day!"
 				""
@@ -133,13 +133,13 @@
 		{
 			dependencies: ["175F5611FB7716A4"]
 			description: [
-				"How to use an item? &6Hover over the item in REI &rand press &b\"U\" &rthis will show you the uses, pay attention to the tabs."
+				"Don't know how to use an item? &6Hover over the item in REI &rand press &b\"U\". &rThis will show you the uses, but pay attention to the tabs at the top!"
 				""
-				"Dont know how to craft an item? &6Hover over the item &rand press &b\"R\"&r."
+				"Don't know how to craft an item? &6Hover over the item &rand press &b\"R\"&r."
 				""
 				"Sometimes you have to start out processing a nugget, instead of &ban ingot &ror &ba block."
 				""
-				"&6You may need to look at the recipes &rfor the material's respective &bnugget &ror sometimes even &bpowders&r."
+				"&6You may need to look at the recipes &rfor the material's respective &bnugget &ror sometimes even &bdusts&r."
 			]
 			icon: "mcwtrpdoors:print_paper"
 			id: "2AB91711E9E7B298"
