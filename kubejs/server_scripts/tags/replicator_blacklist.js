@@ -265,7 +265,15 @@ ServerEvents.tags('item', event => {
         'techreborn:quantum_helmet',
         'techreborn:quantum_chestplate',
         'techreborn:quantum_leggings',
-        'techreborn:quantum_boots'
+        'techreborn:quantum_boots',
+        'modern_industrialization:replicator',
+        'ae2:network_tool',
+        'croptosis:creative_watering_can',
+        'harvest_scythes:creative_scythe',
+        'harvest_scythes:creative_machete',
+        'create:creative_blaze_cake',
+        'wands:creative_wand',
+        'hexcasting:creative_unlocker'
 
     ];
 

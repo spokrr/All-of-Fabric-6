@@ -1,3 +1,207 @@
+### All of Fabric 6 | v1.9.1
+
+_Fabric Loader 0.14.21_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/changelog_mods_1.9.1.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/modlist_1.9.1.md)_
+
+### Added Mods
+
+  * [Create Slice & Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice)
+
+### Removed Mods
+
+  * [Loot Goblins](https://www.curseforge.com/minecraft/mc-mods/loot-goblins)
+  * [SkyLib](https://www.curseforge.com/minecraft/mc-mods/skylib)
+
+### Changes/Improvements
+
+* Added Soothing Lantern quest (AK).
+* Buffed soul's bosses health (AK).
+
+### Bug Fixes
+
+* Right-click special features not working with certain weapons (AK).
+* Roots mana bar being overlapped (AK).
+* Generated without fuel crashes.
+* Strange berries not dropping when broken.
+---
+
+### All of Fabric 6 | v1.9.0 | Explorer's Update
+
+_Fabric Loader 0.14.21_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/changelog_mods_1.9.0.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/modlist_1.9.0.md)_
+
+## DISCLAIMER: Delete the Mincecells dimension before updating!
+
+### Added Mods
+
+  * [Armor & damage scaling](https://www.curseforge.com/minecraft/mc-mods/armor-damage-scaling-forge-fabric)
+  * [Banilla Claws](https://www.curseforge.com/minecraft/mc-mods/banilla-claws)
+  * [Create Jetpack](https://www.curseforge.com/minecraft/mc-mods/create-jetpack)
+  * [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard)
+  * [Eldritch Mobs](https://www.curseforge.com/minecraft/mc-mods/eldritch-mobs)
+  * [Level Text Fix](https://www.curseforge.com/minecraft/mc-mods/level-text-fix)
+  * [Loot Goblins](https://www.curseforge.com/minecraft/mc-mods/loot-goblins)
+  * [Marium's Soulslike Weaponry](https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry)
+  * [Minerally](https://www.curseforge.com/minecraft/mc-mods/minerally)
+  * [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)
+  * [Rechiseled: Create](https://www.curseforge.com/minecraft/mc-mods/rechiseled-create)
+  * [SkyLib](https://www.curseforge.com/minecraft/mc-mods/skylib)
+  * [Strange Berries](https://www.curseforge.com/minecraft/mc-mods/strange-berries)
+
+### Changes/Improvements
+
+* Create updated!
+* More MI retextures (Facu)
+* Added the Basic Growth Chamber custom machine, early game version of the Growth Chamber (Trent).
+* Loading times has been greatly improved.
+* Simply swords rare & unique drop chances has been lowered (AK).
+* Added Corrupted Champion to Boss Rush quest (AK).
+* Corrupted Champion health in casting phase has been increased, 400 > 500 (AK).
+* Corrupted Champion health in hunting phase has been increased, 200 > 300 (AK).
+* Corrupted Champion damage in casting phase has been increased, 30 > 34 (AK).
+* Corrupted Champion damage in hunting phase has been increased, 40 > 45 (AK).
+* Corrupted Champion armor has been increased, 14 > 17 (AK).
+* Corrupted Champion max summoned mobs has been increased, 30 > 35 (AK).
+* Corrupted Champion max group size of summoned mobs has been increased, 5 > 6 (AK).
+* Hide Iron Chests: Restocked barrels from REI (AK).
+* Added farmers delight crops to CTOV villages.
+* Compat between Chef's Delight & CTOV villages, you can now find restaurants.
+* Added button/ui icons (AK).
+* Removed coal/charcoal compressed blocks due to exploits, fuel calculations are off (AK).
+* Blacklisted Void Shadow to be picked up with lassos (AK).
+
+### Bug Fixes
+
+* Spectrum jetpacks crashing when sprinting.
+* Mechanical pumps not working.
+* Old roots not dropping from grass.
+---
+
+### All of Fabric 6 | v1.8.2
+
+_Fabric Loader 0.14.21_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/changelog_mods_1.8.2.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/modlist_1.8.2.md)_
+
+### Added Mods
+
+  * [AOF: Emissive Ores](https://www.curseforge.com/minecraft/texture-packs/all-of-fabric-emissive-ores)
+  * [Chunky](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator)
+  * [Roots Classic](https://www.curseforge.com/minecraft/mc-mods/roots-classic-fabric)
+
+### Removed Mods
+
+  * [Cosmetic Armor](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-fabric) (Crashes with certain armor combinations)
+
+### Changes/Improvements
+
+* Proper log/console filtering (Trent).
+* Added recipes for prosperity shards in macerator, grinder, crusher & pulverizer (AK). 
+* Added recipe for iron, gold & copper dust from ingots in crusher (AK).
+* Added recipe for tree fertilizer in MI mixer (AK).
+* Added recipe for glue in MI mixer (AK).
+* Amount of acrylic glue in the making of glue in create mixer has been lowered, 100mb > 50mb (AK).
+* Right click harvest no longer requires a hoe in your hand (AK).
+* Lich health has been increased, 300 > 400 (AK).
+* Lich damage has been increased, 9 > 10 (AK).
+* Obsidilith health has been increased, 300 > 400 (AK).
+* Obsidilith armor has been increased, 14 > 16 (AK).
+* Gauntlet health has been increased, 250 > 350 (AK).
+* Gauntlet armor has been increased, 8 > 10 (AK).
+* Void Blossom health has been increased, 350 > 450 (AK).
+* Void Blossom damage has been increased 12 > 15 (AK).
+* Remove unused terralith script (AK).
+* Remove steel plate recipe using hammer (AK).
+
+### Bug Fixes
+
+* Custom MI machines missing their loot tables (Trent).
+* Recipe conflict between spice rack & planks path (AK).
+* Quest book not being craftable (AK).
+* REI hiding not functioning with unification.
+* Spectrum entries crashing your game.
+---
+
+### All of Fabric 6 | v1.8.1
+
+_Fabric Loader 0.14.21_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/changelog_mods_1.8.1.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/modlist_1.8.1.md)_
+
+### Added Mods
+
+  * [[Let's Do] Bakery](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery)
+  * [CreateFabric&REIBugFix](https://www.curseforge.com/minecraft/mc-mods/createfabricreibugfix)
+
+### Changes/Improvements
+
+* Added 6 creative items as rewards to The Completionist quest (AK).
+* Added glue recipe in Mixer (AK).
+* Added 2 recipes for tree fertilizer in Mixer (AK).
+* Added wood pulp recipe in Grinder (AK).
+* Added fluid thatch to plant oil recipe in Centrifuge (AK).
+* Turn shaders off by default (AK).
+* Blacklisted network tool in replicator (AK).
+* Blacklisted crocs to be used in cosmetic slot, prevents crash (AK).
+
+### Bug Fixes
+
+* Recipe conflict between Sheet Metal Blocks and Iron Trapdoors (Keno).
+* A Colorful World book not working (AK).
+---
+
+### All of Fabric 6 | v1.8.0 | Beautify & Rebalance
+
+_Fabric Loader 0.14.21_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/changelog_mods_1.8.0.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/modlist_1.8.0.md)_
+
+## DISCLAIMER: Botany Pots has been removed, make sure to remove any seeds/soils before updating.
+
+### Added Mods
+
+  * [Ad Astra: Giselle Addon](https://www.curseforge.com/minecraft/mc-mods/ad-astra-giselle-addon)
+  * [Cosmetic Armor [FABRIC]](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-fabric)
+  * [Diet (Fabric/Forge/Quilt)](https://www.curseforge.com/minecraft/mc-mods/diet)
+  * [Fusion (Connected Textures)](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures)
+
+### Removed Mods
+
+  * [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots) (Severe lag issues & unbalanced)
+  * [Botany Trees](https://www.curseforge.com/minecraft/mc-mods/botany-trees) (Severe lag issues & unbalanced)
+  * [PatchouliButton](https://www.curseforge.com/minecraft/mc-mods/patchoulibutton)
+
+### Changes/Improvements
+
+* Added **4** new custom MI machines (Keno).  
+   * **Growth Chamber**  
+   (Produces Croptopia, Farmer's Delight, BYG, Bewitchment & Vanilla crops & trees).
+   * **Electric Composter**  
+   (Crafting of Mulch & Fertilizer, 2 new materials).
+   * **Mystical Incubator**  
+   (Produces Mystical Agriculture essences, chance to output additional seeds).
+   * **Electric Reprocessor**  
+   (Turns Mystical Agriculture seeds into essences).  
+
+* New custom MI textures (AK & Keno).
+* Added recipes for Polluted & Seastar Sand (AK).
+* Removed MI alloys from Mystical Agriculture (AK).
+* Disabled random spawning of entities with travelers backpack (AK).
+* Added Invisible Armor, used with Cosmetic Armor mod (Keno).
+* Added chipped recipes to the stonecutter (Trent).
+* Moved copper seeds from tier 2 > 3 in quests (jjs98).
+* Revamped the Replicator recipe (Keno).
+* New nutrition system.
+* Re-enabled Imparius Grove end biome (AK).
+* Added recipe for Wailing Bell Blossom in stonecutter (AK).
+* Made chipped mud blocks collapsible in REI (AK).
+* Unified saw dusts, TR taking priority (AK).
+* Hide blockus barrel from REI as not functional (AK).
+
+### Bug Fixes
+
+* Inventory scanning for quests sometimes not working.
+* Recipes for vanilla music discs (Keno).
+* Recipe conflict of purple dye from grape (Keno).
+* Copper dupe using cut copper blocks (spokrr).
+* BYG crafting tables not being craftable (AK).
+* Recipe conflict between therium lantern & lamp (AK).
+* Recipe conflict between cryptic lantern & redstone lantern (AK).
+* Bronze & silver gear will now output the correct variant (AK).
+---
+
 ### All of Fabric 6 | v1.7.1
 
 _Fabric Loader 0.14.21_ | _[Mod Updates](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/changelog_mods_1.7.1.md)_ | _[Modlist](https://github.com/TeamAOF/All-of-Fabric-6/blob/main/changelogs/modlist_1.7.1.md)_
