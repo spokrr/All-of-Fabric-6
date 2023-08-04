@@ -175,11 +175,11 @@
 		{
 			dependencies: ["6EC4700B21DB617B"]
 			description: [
-				"The &bitems &radded by this &6mod &rcan be found in &bChests&r."
+				"The &bitems &radded by this &6mod &rcan be found in &bloot chests&r."
 				""
-				"All &bArtifacts &ronly have a few &bChests &rin which they can be found, so go out and explore!"
+				"All &bArtifacts &ronly have a few &bchests &rin which they can be found, so go out and explore!"
 				""
-				"Additionally, a new &bUnderground Campsite &rstructure has been added. &bMimics &roccasionally &6spawn in these &bCampsites &rinstead of a &bChests&r, which are dangerous &benemies &rthat &6attack &rplayers that get too close. &bMimics &ralways drop a random artifact when killed."
+				"Additionally, a new &bUnderground Campsite &rstructure has been added. &bMimics &roccasionally &6spawn in these &bCampsites &rinstead of &bloot chests&r, which are dangerous &benemies &rthat &6attack &rplayers that get too close. &bMimics &ralways drop a random artifact when killed."
 			]
 			id: "32910C1041DE2764"
 			rewards: [{
@@ -389,7 +389,7 @@
 			description: [
 				"To start your adventure &rwith &bMine Cells&r, &6find a portal structure&r. The &bportal&r will &6activate&r for you automatically if you've already acquired diamonds in the world."
 				""
-				"&bMine Cells &rfeatures new &bMonsters &rwhich attempt to faithfully recreate the look and feel of the original game."
+				"&bMine Cells &rfeatures new &bmonsters &rwhich attempt to faithfully recreate the look and feel of the original game."
 				""
 				"&bMine Cells &6introduces one new boss&r - &bThe Conjunctivius&r."
 				""
@@ -423,7 +423,7 @@
 		}
 		{
 			dependencies: ["6EC4700B21DB617B"]
-			description: ["&6You can also make yourself &r(riding a mob or vehicle) or have any mob &6enter the dimension &rby using a &bPiston &rto push the player or mob into a &bBeehive &ror &bBee Nest &rblock!"]
+			description: ["&6You can also make yourself &r(riding a mob or vehicle) or any other mob &6enter the dimension &rby using a &bPiston &rto push the player or mob into a &bBeehive &ror &bBee Nest &rblock!"]
 			id: "438319FC721F0274"
 			rewards: [{
 				id: "265BD5CE05DD0429"
